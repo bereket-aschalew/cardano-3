@@ -16,3 +16,11 @@ Aiken smart contract project for Cardano, deployed on Preview testnet using Mesh
 ## Verify
 
 Check transactions on https://preview.cardanoscan.io
+
+
+##ABOUT ME
+Name-bereket aschalew
+
+school=rofam academy
+
+skills-html,css,js,python and react
